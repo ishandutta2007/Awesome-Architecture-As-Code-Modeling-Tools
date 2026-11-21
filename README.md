@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Architecture-As-Code-Modeling-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Architecture-As-Code-Modeling-Tools?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Architecture-As-Code-Modeling-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Architecture-As-Code-Modeling-Tools?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Architecture-As-Code-Modeling-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Architecture-As-Code-Modeling-Tools?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Architecture-As-Code-Modeling-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -76,7 +76,7 @@ The global **Enterprise Architecture (EA) Software & System Modeling** market is
 
 ## 🔓 Open-Source GitHub Projects
 
-*Git-native Architecture-as-Code DSLs, C4 modeling runtimes, programmatic diagram generators, and developer portal engines (sorted descending by GitHub star count).*
+*Git-native Architecture-as-Code DSLs, C4 modeling runtimes, programmatic diagram generators, and developer portal engines (sorted descending by GitHub Stars_Count).*
 
 - 🎨 **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
   Virtual whiteboard for sketching hand-drawn diagrams, system architectures, and wireframes with collaborative real-time editing, programmatic JSON scene generation, and Mermaid syntax import.
@@ -177,7 +177,7 @@ Contributions are welcome! Help us expand this ecosystem by adding tools or upda
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a feature branch**: `git checkout -b feature/add-new-tool`.
-3. 📝 **Add your entry**: Ensure you follow the table or list schema (including links, descriptions, pricing/limits for SaaS, or star badges for open-source repos).
+3. 📝 **Add your entry**: Ensure you follow the table or list schema (including links, descriptions, pricing/limits for SaaS, or Stars_Badges for open-source repos).
 4. ✅ **Ensure accuracy**: Verify links, pricing tiers, and open-source star metrics.
 5. 🚀 **Submit a Pull Request** with a concise description of why the tool belongs in this list.
 
