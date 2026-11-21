@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[IcePanel](https://icepanel.io)**  
-
-  Collaborative C4 model architecture diagramming and modeling platform designed for interactive system zooming, versioned snapshots, and Reality-synced cloud inventories.
-
-
-
-- **[Structurizr Cloud](https://structurizr.com)**  
-
-  Official hosted workspace platform for the Structurizr DSL and C4 model, providing interactive multi-view diagrams, architecture decision records (ADRs), and team collaboration.
-
-
-
-- **[SAP LeanIX](https://leanix.net)**  
-
-  Enterprise Architecture Management (EAM) SaaS platform for mapping application portfolios, cloud transformations, technology risk, and automated dependency graphs.
-
-
-
-- **[Ardoq](https://ardoq.com)**  
-
-  Data-driven cloud Enterprise Architecture platform turning structured repository data into automated, dynamic system visualizations and impact analysis maps.
-
-
-
-- **[Bizzdesign Horizzon](https://bizzdesign.com)**  
-
-  Cloud enterprise architecture and business transformation suite supporting ArchiMate, BPMN, and portfolio modeling across large organizations.
-
-
-
-- **[Visual Paradigm Online / Cloud](https://visual-paradigm.com)**  
-
-  Cloud-enabled UML, ArchiMate, C4, and SysML modeling suite offering round-trip code engineering, database schema design, and team repository hosting.
-
-
-
-- **[Sparx Systems Enterprise Architect (Pro Cloud Server)](https://sparxsystems.com)**  
-
-  Comprehensive UML, SysML, and ArchiMate modeling platform with cloud-hosted WebEA repositories and real-time collaborative model governance.
-
-
-
-- **[Software Ideas Modeler](https://softwareideas.net)**  
-
-  Multi-standard diagramming and CASE modeling tool supporting UML, SysML, ArchiMate, BPMN, ERD, and automated source code generation.
-
-
-
-- **[Draw.io Cloud (diagrams.net)](https://diagrams.net)**  
-
-  Cloud-integrated visual diagramming platform with native C4 shape libraries, Mermaid/PlantUML import, and direct GitHub/GitLab/Google Drive persistence.
-
-
-
-- **[PlantUML Web Server / Cloud](https://plantuml.com)**  
-
-  Hosted rendering service transforming plain-text PlantUML and C4-PlantUML definitions into shareable SVG, PNG, and ASCII architecture diagrams.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limits |
+| --- | --- | --- | --- |
+| **[IcePanel](https://icepanel.io)** | Collaborative C4 model architecture diagramming and modeling platform designed for interactive system zooming, versioned snapshots, and Reality-synced cloud inventories. | $40/editor/month (billed annually) for Growth tier | Free forever: 1 editor, unlimited viewers, up to 100 model objects, 2 tag groups, 1 flow per diagram |
+| **[Structurizr Cloud](https://structurizr.com)** | Official hosted workspace platform for the Structurizr DSL and C4 model, providing interactive multi-view diagrams, architecture decision records (ADRs), and team collaboration. | £300/month (billed annually) for 1–20 users (paid server edition) | Free forever (Cloud & Playground): 1 workspace with Structurizr Cloud free tier / open-source Structurizr Lite & local tools |
+| **[SAP LeanIX](https://leanix.net)** | Enterprise Architecture Management (EAM) SaaS platform for mapping application portfolios, cloud transformations, technology risk, and automated dependency graphs. | Custom quote-based (starts around $30,000/year for application portfolio tiers) | 30-day free trial (access to Application Portfolio Management evaluation sandbox with sample models) |
+| **[Ardoq](https://ardoq.com)** | Data-driven cloud Enterprise Architecture platform turning structured repository data into automated, dynamic system visualizations and impact analysis maps. | Custom quote-based (app-based portfolio tiers; starting around $60,000/year via marketplace packages) | 14-day guided proof-of-value trial (limited to prospective enterprise evaluation pilot with a subset of workspace data) |
+| **[Bizzdesign Horizzon](https://bizzdesign.com)** | Cloud enterprise architecture and business transformation suite supporting ArchiMate, BPMN, and portfolio modeling across large organizations. | Custom quote-based (entry tiers start around €5,000/year; designer seats from ~£2,500/seat/year) | 14-day free trial (access to evaluation environment for business prospects upon approval) |
+| **[Visual Paradigm Online / Cloud](https://visual-paradigm.com)** | Cloud-enabled UML, ArchiMate, C4, and SysML modeling suite offering round-trip code engineering, database schema design, and team repository hosting. | $4/user/month (billed annually) for Starter tier ($9/user/month for Advance) | Free forever plan: 1 GB cloud workspace storage, non-commercial use with basic diagramming shapes; 30-day trial for premium features |
+| **[Sparx Systems Enterprise Architect (Pro Cloud Server)](https://sparxsystems.com)** | Comprehensive UML, SysML, and ArchiMate modeling platform with cloud-hosted WebEA repositories and real-time collaborative model governance. | $5,350/year for Pro Cloud Server Team Edition (up to 7 repositories, unlimited web viewers) | 30-day free trial (full functionality across all editions with watermark on exported diagrams and reports) |
+| **[Software Ideas Modeler](https://softwareideas.net)** | Multi-standard diagramming and CASE modeling tool supporting UML, SysML, ArchiMate, BPMN, ERD, and automated source code generation. | $59 lifelong license (Standard Edition for commercial use; $399 for Team Server) | Free forever Standard Edition for non-commercial personal use; 30-day free trial for commercial/all editions |
+| **[Draw.io Cloud (diagrams.net)](https://diagrams.net)** | Cloud-integrated visual diagramming platform with native C4 shape libraries, Mermaid/PlantUML import, and direct GitHub/GitLab/Google Drive persistence. | Free standalone web app; Atlassian Cloud starts at $5/month (or free up to 10 users) | Free forever: 100% free with unlimited diagrams and storage via local/Google Drive/GitHub; Free on Confluence/Jira Cloud for up to 10 users |
+| **[PlantUML Web Server / Cloud](https://plantuml.com)** | Hosted rendering service transforming plain-text PlantUML and C4-PlantUML definitions into shareable SVG, PNG, and ASCII architecture diagrams. | Free public cloud rendering API; Professional license available to suppress sponsored error banners | Free forever: public cloud API server with a 4096px image dimension limit |
 
 
 
